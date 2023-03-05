@@ -1,14 +1,20 @@
+# Teacher Student Curriculum Learning applied to OCR
+
+
 If you arrive here, you probably come from [khipu](https://khipu.ai/)!
 
-# Poster
-[Here]() is the poster called "Teacher Student Curriculum Learning applied to OCR".
+## The poster
+You can download it from [here](khipu-2023/Khipu_poster_rlaguna_v4.pdf).
 
 
-# Contact
-Let's keep in touch! rodrigo.laguna@fing.edu.uy or [@ro_laguna_](https://twitter.com/ro_laguna_) in Twitter.
+## Contact
+Let's keep in touch! 
+ - rodrigo.laguna@fing.edu.uy 
+ - [@ro_laguna_](https://twitter.com/ro_laguna_) in Twitter
+ - [rodrigo-laguna](https://www.linkedin.com/in/rodrigo-laguna/) in Linkedin
 
 
-# Contribute to Luisa
+## Contribute to Luisa
 
 You can contribute to the labeling process [here](https://mh.udelar.edu.uy/luisa/).
 

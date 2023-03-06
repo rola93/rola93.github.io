@@ -1,3 +1,8 @@
+---
+title: TSCL head
+permalink: /khipu-2023/tscl.html
+---
+
 # Teacher Student Curriculum Learning applied to OCR
 
 

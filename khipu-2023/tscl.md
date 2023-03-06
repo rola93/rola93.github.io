@@ -14,10 +14,8 @@ You can download it [here](Khipu_poster_rlaguna_v4.pdf).
 
 
 ## Contact
-Let's keep in touch! 
- - [rodrigo.laguna@fing.edu.uy](mailto:rodrigo.laguna@fing.edu.uy)
- - [@ro_laguna_](https://twitter.com/ro_laguna_) in Twitter
- - [rodrigo-laguna](https://www.linkedin.com/in/rodrigo-laguna/) in Linkedin
+Let's keep in touch! my e-mail is [rodrigo.laguna@fing.edu.uy](mailto:rodrigo.laguna@fing.edu.uy)
+I'm also in Twitter as [@ro_laguna_](https://twitter.com/ro_laguna_) or in [Linkedin](https://www.linkedin.com/in/rodrigo-laguna/).
 
 
 ## Contribute to Luisa

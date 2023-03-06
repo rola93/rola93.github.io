@@ -22,9 +22,16 @@ Let's keep in touch!
 
 ## Contribute to Luisa
 
-You can contribute to the labeling process [here](https://mh.udelar.edu.uy/luisa/).
+You can contribute to the LUISA (_Leyendo Unidos para
+Interpretar loS Archivos_) project, labeling some instances [here](https://mh.udelar.edu.uy/luisa/).
+
+
+> LUISA is a collaborative project with the objective of transcribing texts from the period prior to, and during, the Uruguayan dictatorship, which for several reasons may be difficult to transcribe automatically. The project seeks to contribute to the search for truth and justice regarding the acts of State terrorism.
+
 
 [![An iconic photo of Luisa Cuesta, which looks like a black and white drawing](https://mh.udelar.edu.uy/luisa/luisa-theme/luisa_dibujo_mediano.png)](https://mh.udelar.edu.uy/luisa/)
+
+
 
 ## References
 - [[1] Yoshua Bengio et al. “Curriculum learning”. In: Proceedings of the 26th annual international conference on machine learning. 2009, pp. 41–48](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/15972/Bengio%2C%202009%20Curriculum%20Learning.pdf). 
